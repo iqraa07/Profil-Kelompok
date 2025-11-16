@@ -198,9 +198,9 @@ Halaman **Contact** berisi:
 
 ## 📦 Download APK
 
-APK build (debug/release) disimpan di folder [`docs/`](docs):
+APK build (debug/release) disimpan di folder [`docs`](docs):
 
-- [`docs/profil-kelompok-sesi6.apk`](docs/profil-kelompok-sesi6.apk)
+- [`docs/profil-kelompok-sesi6.apk`](docs/profil-kelompok.apk)
 
 File ini bisa dipindahkan ke device Android dan di-install untuk mencoba aplikasi secara langsung.
 
