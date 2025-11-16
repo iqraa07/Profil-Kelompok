@@ -12,7 +12,7 @@ Semua screenshot disimpan di folder [`docs`](docs) bersama file APK.
 
 ### 1. Intro Aplikasi (`docs/01_intro_aplikasi.png`)
 
-![Intro Aplikasi]
+![Intro Aplikasi](docs/01_intro_aplikasi.png)
 
 Halaman pembuka yang menjelaskan:
 - Ringkasan aplikasi dan teknologi yang digunakan (Navigation Component + Jetpack Compose + Material 3 Scaffold).
@@ -22,9 +22,9 @@ Halaman pembuka yang menjelaskan:
 
 ---
 
-### 2. About – Profil Kelompok (`docs/02_about_profil_kelompok.png`)
+### 2. About – Profil Kelompok
 
-![About – Profil Kelompok]
+![About – Profil Kelompok](docs/02_about_profil_kelompok.png)
 
 Halaman utama profil:
 - Menampilkan **nama ketua** dan informasi:
@@ -38,9 +38,9 @@ Halaman utama profil:
 
 ---
 
-### 3. About – Ringkasan Informasi (`docs/03_about_ringkasan_informasi.png`)
+### 3. About – Ringkasan Informasi
 
-![Ringkasan Informasi]
+![Ringkasan Informasi](docs/03_about_ringkasan_informasi.png)
 
 Bottom sheet **Ringkasan Informasi** yang muncul setelah menekan tombol **(+)**:
 - **Biodata Ketua**  
@@ -59,9 +59,9 @@ Bagian ini memudahkan dosen atau reviewer membaca “overview” aplikasi tanpa 
 
 ---
 
-### 4. Skills – Kemampuan Tim (`docs/04_skills_kelompok.png`)
+### 4. Skills – Kemampuan Tim
 
-![Skills – Kemampuan Tim]
+![Skills – Kemampuan Tim](docs/04_skills_kelompok.png)
 
 Halaman **Skills** menampilkan daftar kemampuan teknis dan non-teknis:
 
@@ -76,9 +76,9 @@ Halaman ini cocok sebagai **visualisasi kompetensi tim** ketika project dijadika
 
 ---
 
-### 5. Contact – Hubungi Kami (`docs/05_contact_ketua.png`)
+### 5. Contact – Hubungi Kami
 
-![Contact – Hubungi Kami]
+![Contact – Hubungi Kami](docs/05_contact_ketua.png)
 
 Halaman **Contact** berisi:
 
