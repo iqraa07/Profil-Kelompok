@@ -145,7 +145,7 @@ Halaman **Contact** berisi:
   - GitHub: [github.com/iqraa07](https://github.com/iqraa07)  
   - Instagram: [@qraaaaa_](https://www.instagram.com/qraaaaa_)  
   - Email: `iqranurfajar0804@gmail.com`  
-  - WhatsApp: [`wa.me/6281342331223`](https://wa.me/6281342331223)
+  - WhatsApp: [`Contact WA Ketua`](https://wa.me/6281342331223)
 
 - **Anggota**:
   - **Zalfa Naqiyah** – fokus UI/UX & penyusunan tampilan.  
@@ -198,7 +198,7 @@ Halaman **Contact** berisi:
 
 APK build (debug/release) disimpan di folder [`docs`](docs):
 
-- [``](docs/profil-kelompok.apk)
+- [`Download Apknya Disini`](docs/profil-kelompok.apk)
 
 File ini bisa dipindahkan ke device Android dan di-install untuk mencoba aplikasi secara langsung.
 
