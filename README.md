@@ -26,8 +26,6 @@ Project ini dibuat untuk tugas **Praktikum Mobile Application (Sesi 6)**
 
 Semua screenshot disimpan di folder [`docs`](docs) bersama file APK.
 
-> **Catatan:** Ukuran gambar di README sudah diperkecil (width ±320px) supaya tetap rapi di GitHub.
-
 ---
 
 ### 1. Intro Aplikasi
