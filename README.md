@@ -24,7 +24,7 @@ Project ini dibuat untuk tugas **Praktikum Mobile Application (Sesi 6)**
 
 ## 📲 Preview Aplikasi
 
-Semua screenshot disimpan di folder [`docs`](docs) bersama file APK.
+Semua screenshot disimpan di folder [`DOCS`](docs) bersama file APK.
 
 ---
 
@@ -196,7 +196,7 @@ Halaman **Contact** berisi:
 
 ## 📦 Download APK
 
-APK build (debug/release) disimpan di folder [`docs`](docs):
+APK build (debug/release) disimpan di folder [`DOCS`](docs):
 
 - [`Download Apknya Disini`](docs/profil-kelompok.apk)
 
